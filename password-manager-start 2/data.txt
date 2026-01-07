@@ -1,0 +1,7 @@
+meesho |manasi@gmail.com|abcd
+amazon |manasi@gmail.com|pqrs
+amazon |manasi@gmail.com|abcd
+amazon |manasi@gmail.com|abcd
+whatsapp |manasi@gmail.com|pqrs
+google |manasi@gmail.com|fesdfx
+aba |manasi@gmail.com|abc
